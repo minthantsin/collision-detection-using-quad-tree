@@ -1,5 +1,7 @@
 # Opti Collision detection
-This repository compares improvement in collision detection using quad trees over brute force method 
+Comparing improvement in collision detection of agents using quad trees over brute force method.
 
-<h3>To execute</h3>
-<p>Just open <b>project.html</b> file in web browser.</p>
+Check out the corresponding medium blog post [Collision detection using quad-tree data structure](https://medium.com/@abhinav.sagar/collision-detection-using-quad-tree-data-structure-ff7f6e8b819).
+
+## To execute
+Just open project.html file in web browser.
